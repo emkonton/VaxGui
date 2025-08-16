@@ -1,6 +1,6 @@
 # VaxGui
 
-#lisans
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -13,10 +13,7 @@
 - [Kurulum ve Çalıştırma](#kurulum-ve-çalıştırma)  
 - [Bağımlılıklar](#bağımlılıklar)  
 - [Kullanım](#kullanım)  
-- [Yapılandırma](#yapılandırma)  
-- [Katkıda Bulunma](#katkıda-bulunma)  
-- [Lisans](#lisans)  
-- [İletişim](#iletişim)
+
 
 ---
 
