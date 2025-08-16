@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\VaSuiteGui.exe.config
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\VaSuiteGui.exe
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\VaSuiteGui.pdb
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.Form1.resources
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.Properties.Resources.resources
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.exe
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.pdb
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\pythonScripts\ipinfo.py
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.csproj.Up2Date
+C:\Users\pc\source\repos\VaSuiteGui\VaSuiteGui\obj\Debug\VaSuiteGui.aform.resources

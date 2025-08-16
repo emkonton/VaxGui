@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAMMOAADDDgAAAAAAAAAA
+        AAD/bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//28C//9wBP//cAP//28C//9uAP//bgD//24A//9wA///cAP//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9vAP//awH//2QA//9kAP//aQH//28B//9uAf//bwH//2cA//9l
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bwH//2sA//9/I///oFb//59U//+JMv//aQD//24C//9q
+        AP//kkD//5tO//9vAv//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9wA///ZgD//86q/////////////+XS//9x
+        Bf//awD//3sY///+/f//1LP//2cA//9vAv//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bwL//2oA//+BJv//+vb////+///9
+        +////Pv///Hm///27///8OX///////+TRv//ZgD//3AD//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9wBP//YwD//7qI///9
+        +///07L/////////////69v//7Z+///7+P//59X//20C//9uAP//bgH//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgH//20A//9x
+        Cv//9e7//9a5//+BKP/////////////p2v//hjf///////+wd///YwD//3AE//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9w
+        A///ZAD//51Y////////ol///18A///dxf////////r3///v4v//+fT//34f//9sAP//bwL//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9rAP//4sz///n1//93Ff//YgD//6dn////////+vf////////Gn///XQD//2oD//9s
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9vAv//agD//34c///dw///sXn//2gA//9tAP//ehn//97G///izP//+PL//8GV//+N
+        N///kDz//3gS//9sAP//bgH//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgH//2cA//9oAP//bwH//28A//9qAP//tYH//6Vh//+a
+        T///rnL//6Zi//+ucf//hSn//2kA//9vAv//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bwP//28D//9uAP//bgD//20A//99
+        Gv//cQv//2cA//9uB///ZQD//2oA//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//2sA//9tAv//cAL//24B//9wA///bwH//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bwH//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9uAP//bgD//24A//9u
+        AP//bgD//24A//9uAP//bgD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+</root>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaSuiteGui", "VaSuiteGui\VaSuiteGui.csproj", "{FE49A801-80A7-4869-B454-0F83839858AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE49A801-80A7-4869-B454-0F83839858AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE49A801-80A7-4869-B454-0F83839858AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE49A801-80A7-4869-B454-0F83839858AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE49A801-80A7-4869-B454-0F83839858AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC3619E-98E7-455C-A081-E7EB57A2002C}
+	EndGlobalSection
+EndGlobal
