@@ -1,5 +1,7 @@
 # VaxGui
 
+#lisans
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **VaSuiteX GUI Version** — VaxGui, VaSuiteX projesinin grafiksel kullanıcı arayüzü (GUI) uygulamasıdır.
